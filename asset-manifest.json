@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/lovepropose/static/css/main.bf910e81.css",
+    "main.js": "/lovepropose/static/js/main.7797d30f.js",
+    "static/js/787.355bc022.chunk.js": "/lovepropose/static/js/787.355bc022.chunk.js",
+    "static/media/love.gif": "/lovepropose/static/media/love.6a76f926d9332a774190.gif",
+    "static/media/yay.gif": "/lovepropose/static/media/yay.5c382d28c51b4502fcaf.gif",
+    "index.html": "/lovepropose/index.html",
+    "main.bf910e81.css.map": "/lovepropose/static/css/main.bf910e81.css.map",
+    "main.7797d30f.js.map": "/lovepropose/static/js/main.7797d30f.js.map",
+    "787.355bc022.chunk.js.map": "/lovepropose/static/js/787.355bc022.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf910e81.css",
+    "static/js/main.7797d30f.js"
+  ]
+}
